@@ -1,4 +1,4 @@
-# Hi there, I'm Lim Zi Yang
+# Hi there, I'm YangSaiyan
 
 ![YangSaiyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yangsaiyan&show_icons=true&theme=dark)
 
