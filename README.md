@@ -17,7 +17,7 @@
 <img src="https://api.iconify.design/logos:tailwindcss-icon.svg?color=%23888888" alt="Tailwind CSS" width="48" height="48" />
 <img src="https://api.iconify.design/logos:material-ui.svg?color=%23888888" alt="Material UI" width="48" height="48" />
 <img src="https://api.iconify.design/logos:postgresql.svg?color=%23888888" alt="PostgreSQL" width="48" height="48" />
-<img src="https://api.iconify.design/logos:postman.svg?color=%23888888" alt="Postman" width="48" height="48" />
+<img src="https://api.iconify.design/logos:postman-icon.svg?color=%23888888" alt="Postman" width="48" height="48" />
 </p>
 </div>
 
@@ -60,7 +60,7 @@
 <h3>Currently Learning</h3>
 <div>
 <p align="center">
-<img src="https://api.iconify.design/logos:go.svg?color=%23888888" alt="Go" width="48" height="48" />
+<img src="https://api.iconify.design/skill-icons:golang.svg?color=%23888888" alt="Go" width="48" height="48" />
 <img src="https://api.iconify.design/skill-icons:supabase-light.svg?color=%23888888" alt="Supabase" width="48" height="48" />
 </p>
 </div>
