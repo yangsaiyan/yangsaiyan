@@ -20,6 +20,7 @@
 </div>
 
 <h3>Used Stacks</h3>
+<div>
 <img src="https://api.iconify.design/logos:solidity.svg?color=%23888888" alt="Solidity" />
 <img src="https://api.iconify.design/logos:c-plusplus.svg?color=%23888888" alt="C++" />
 <img src="https://api.iconify.design/logos:python.svg?color=%23888888" alt="Python" />
@@ -35,12 +36,17 @@
 <img src="https://api.iconify.design/skill-icons:gitlab-light.svg?color=%23888888" alt="Gitlab" />
 <img src="https://api.iconify.design/logos:slack-icon.svg?color=%23888888" alt="Slack" />
 <img src="https://api.iconify.design/logos:google-tag-manager.svg?color=%23888888" alt="Google Tag Manager" />
+</div>
 
 <h3>Exposed To</h3>
+<div>
 <img src="https://api.iconify.design/logos:graphql.svg?color=%23888888" alt="GraphQL" />
 <img src="https://api.iconify.design/logos:grpc.svg?color=%23888888" alt="gRPC" />
 <img src="https://api.iconify.design/logos:posthog.svg?color=%23888888" alt="PostHog" />
+</div>
 
 <h3>Currently Learning</h3>
+<div>
 <img src="https://api.iconify.design/logos:go.svg?color=%23888888" alt="Go" />
 <img src="https://api.iconify.design/logos:supabase.svg?color=%23888888" alt="Supabase" />
+</div>
