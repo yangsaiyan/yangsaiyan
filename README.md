@@ -6,7 +6,7 @@
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yangsaiyan&layout=compact&theme=dark)
 
 
-<div>
+<div style="background: white;">
   <img src="https://api.iconify.design/logos:javascript.svg?color=%23888888" alt="JavaScript" />
   <img src="https://api.iconify.design/logos:typescript-icon.svg?color=%23888888" alt="TypeScript" />
   <img src="https://api.iconify.design/logos:vercel.svg?color=%23888888" alt="Vercel" />
