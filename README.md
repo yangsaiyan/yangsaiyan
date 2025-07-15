@@ -20,6 +20,7 @@
 </div>
 
 <h3>Used Stacks</h3>
+<p>Used or currently using these, but not actively.</p>
 <div>
 <img src="https://api.iconify.design/skill-icons:solidity.svg?color=%23888888" alt="Solidity" />
 <img src="https://api.iconify.design/logos:c-plusplus.svg?color=%23888888" alt="C++" />
@@ -35,18 +36,19 @@
 <img src="https://api.iconify.design/logos:jira.svg?color=%23888888" alt="Jira" />
 <img src="https://api.iconify.design/skill-icons:gitlab-light.svg?color=%23888888" alt="Gitlab" />
 <img src="https://api.iconify.design/logos:slack-icon.svg?color=%23888888" alt="Slack" />
-<img src="https://api.iconify.design/logos:google-tag-manager.svg?color=%23888888" alt="Google Tag Manager" />
 <img src="https://api.iconify.design/skill-icons:androidstudio-light.svg?color=%23888888" alt="Android Studio" />
 <img src="https://api.iconify.design/skill-icons:jenkins-light.svg?color=%23888888" alt="Jenkins" />
-<img src="https://api.iconify.design/skill-icons:figma-light.svg?color=%23888888" alt="Pinia" />
-<img src="https://api.iconify.design/skill-icons:pinia-light.svg?color=%23888888" alt="Figma" />
+<img src="https://api.iconify.design/skill-icons:figma-light.svg?color=%23888888" alt="Figma" />
+<img src="https://api.iconify.design/skill-icons:pinia-light.svg?color=%23888888" alt="Pinia" />
 </div>
 
 <h3>Exposed To</h3>
+<p>Used to work with these, but not actively using them now.</p>
 <div>
 <img src="https://api.iconify.design/logos:graphql.svg?color=%23888888" alt="GraphQL" />
 <img src="https://api.iconify.design/logos:grpc.svg?color=%23888888" alt="gRPC" />
 <img src="https://api.iconify.design/logos:posthog-icon.svg?color=%23888888" alt="PostHog" />
+<img src="https://api.iconify.design/logos:google-tag-manager.svg?color=%23888888" alt="Google Tag Manager" />
 </div>
 
 <h3>Currently Learning</h3>
