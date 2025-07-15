@@ -1,9 +1,12 @@
 # Hi there, I'm Lim Zi Yang
 
+<p align="center">
 ![YangSaiyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yangsaiyan&show_icons=true&theme=dark)
+</p>
 
-
+<p align="center">
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yangsaiyan&layout=compact&theme=dark)
+</p>
 
 <h3>Main Stacks</h3>
 <div>
