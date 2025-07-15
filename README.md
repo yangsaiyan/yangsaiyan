@@ -53,6 +53,6 @@
 
 <h3>Currently Learning</h3>
 <div>
-<img src="https://api.iconify.design/logos:go.svg?color=%23888888" alt="Go" />
-<img src="https://api.iconify.design/skill-icons:supabase-light.svg?color=%23888888" alt="Supabase" />
+<img src="https://api.iconify.design/logos:go.svg?color=%23888888" alt="Go" width="48" height="48" />
+<img src="https://api.iconify.design/skill-icons:supabase-light.svg?color=%23888888" alt="Supabase" width="48" height="48" />
 </div>
