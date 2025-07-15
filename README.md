@@ -9,7 +9,7 @@
 <div>
 <img src="https://api.iconify.design/logos:javascript.svg?color=%23888888" alt="JavaScript" />
 <img src="https://api.iconify.design/logos:typescript-icon.svg?color=%23888888" alt="TypeScript" />
-<img src="https://api.iconify.design/logos:vercel.svg?color=%23888888" alt="Vercel" />
+<img src="https://api.iconify.design/skill-icons:vercel-light.svg?color=%23888888" alt="Vercel" />
 <img src="https://api.iconify.design/logos:react.svg?color=%23888888" alt="React" />
 <img src="https://api.iconify.design/logos:nextjs-icon.svg?color=%23888888" alt="Next.js" />
 <img src="https://api.iconify.design/logos:vue.svg?color=%23888888" alt="Vue.js" />
@@ -26,7 +26,7 @@
 <img src="https://api.iconify.design/logos:python.svg?color=%23888888" alt="Python" />
 <img src="https://api.iconify.design/logos:java.svg?color=%23888888" alt="Java" />
 <img src="https://api.iconify.design/logos:nestjs.svg?color=%23888888" alt="NestJS" />
-<img src="https://api.iconify.design/logos:expo.svg?color=%23888888" alt="Expo" />
+<img src="https://api.iconify.design/cib:expo.svg?color=%23888888" alt="Expo" />
 <img src="https://api.iconify.design/logos:mysql.svg?color=%23888888" alt="MySQL" />
 <img src="https://api.iconify.design/logos:redux.svg?color=%23888888" alt="Redux" />
 <img src="https://api.iconify.design/logos:gunjs.svg?color=%23888888" alt="Gun.js" />
@@ -36,17 +36,21 @@
 <img src="https://api.iconify.design/skill-icons:gitlab-light.svg?color=%23888888" alt="Gitlab" />
 <img src="https://api.iconify.design/logos:slack-icon.svg?color=%23888888" alt="Slack" />
 <img src="https://api.iconify.design/logos:google-tag-manager.svg?color=%23888888" alt="Google Tag Manager" />
+<img src="https://api.iconify.design/skill-icons:androidstudio-light.svg?color=%23888888" alt="Android Studio" />
+<img src="https://api.iconify.design/skill-icons:jenkins-light.svg?color=%23888888" alt="Jenkins" />
+<img src="https://api.iconify.design/skill-icons:figma-light.svg?color=%23888888" alt="Pinia" />
+<img src="https://api.iconify.design/skill-icons:pinia-light.svg?color=%23888888" alt="Figma" />
 </div>
 
 <h3>Exposed To</h3>
 <div>
 <img src="https://api.iconify.design/logos:graphql.svg?color=%23888888" alt="GraphQL" />
 <img src="https://api.iconify.design/logos:grpc.svg?color=%23888888" alt="gRPC" />
-<img src="https://api.iconify.design/logos:posthog.svg?color=%23888888" alt="PostHog" />
+<img src="https://api.iconify.design/logos:posthog-icon.svg?color=%23888888" alt="PostHog" />
 </div>
 
 <h3>Currently Learning</h3>
 <div>
 <img src="https://api.iconify.design/logos:go.svg?color=%23888888" alt="Go" />
-<img src="https://api.iconify.design/logos:supabase.svg?color=%23888888" alt="Supabase" />
+<img src="https://api.iconify.design/skill-icons:supabase-light.svg?color=%23888888" alt="Supabase" />
 </div>
