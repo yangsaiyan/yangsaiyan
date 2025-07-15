@@ -6,6 +6,7 @@
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yangsaiyan&layout=compact&theme=dark)
 
 <h3>Main Stacks</h3>
+<div>
 <img src="https://api.iconify.design/logos:javascript.svg?color=%23888888" alt="JavaScript" />
 <img src="https://api.iconify.design/logos:typescript-icon.svg?color=%23888888" alt="TypeScript" />
 <img src="https://api.iconify.design/logos:vercel.svg?color=%23888888" alt="Vercel" />
@@ -16,6 +17,7 @@
 <img src="https://api.iconify.design/logos:material-ui.svg?color=%23888888" alt="Material UI" />
 <img src="https://api.iconify.design/logos:postgresql.svg?color=%23888888" alt="PostgreSQL" />
 <img src="https://api.iconify.design/logos:postman.svg?color=%23888888" alt="Postman" />
+</div>
 
 <h3>Used Stacks</h3>
 <img src="https://api.iconify.design/logos:solidity.svg?color=%23888888" alt="Solidity" />
