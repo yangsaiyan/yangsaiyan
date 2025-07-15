@@ -7,6 +7,7 @@
 
 <h3>Main Stacks</h3>
 <div>
+<p align="center">
 <img src="https://api.iconify.design/logos:javascript.svg?color=%23888888" alt="JavaScript" width="48" height="48" />
 <img src="https://api.iconify.design/logos:typescript-icon.svg?color=%23888888" alt="TypeScript" width="48" height="48" />
 <img src="https://api.iconify.design/skill-icons:vercel-light.svg?color=%23888888" alt="Vercel" width="48" height="48" />
@@ -17,11 +18,13 @@
 <img src="https://api.iconify.design/logos:material-ui.svg?color=%23888888" alt="Material UI" width="48" height="48" />
 <img src="https://api.iconify.design/logos:postgresql.svg?color=%23888888" alt="PostgreSQL" width="48" height="48" />
 <img src="https://api.iconify.design/logos:postman.svg?color=%23888888" alt="Postman" width="48" height="48" />
+</p>
 </div>
 
 <h3>Used Stacks</h3>
 <p>Used or currently using these, but not actively.</p>
 <div>
+<p align="center">
 <img src="https://api.iconify.design/skill-icons:solidity.svg?color=%23888888" alt="Solidity" width="48" height="48" />
 <img src="https://api.iconify.design/logos:c-plusplus.svg?color=%23888888" alt="C++" width="48" height="48" />
 <img src="https://api.iconify.design/logos:python.svg?color=%23888888" alt="Python" width="48" height="48" />
@@ -40,19 +43,24 @@
 <img src="https://api.iconify.design/skill-icons:jenkins-light.svg?color=%23888888" alt="Jenkins" width="48" height="48" />
 <img src="https://api.iconify.design/skill-icons:figma-light.svg?color=%23888888" alt="Figma" width="48" height="48" />
 <img src="https://api.iconify.design/skill-icons:pinia-light.svg?color=%23888888" alt="Pinia" width="48" height="48" />
+</p>
 </div>
 
 <h3>Exposed To</h3>
 <p>Used to work with these, but not actively using them now.</p>
 <div>
+<p align="center">
 <img src="https://api.iconify.design/logos:graphql.svg?color=%23888888" alt="GraphQL" width="48" height="48" />
 <img src="https://api.iconify.design/logos:grpc.svg?color=%23888888" alt="gRPC" width="48" height="48" />
 <img src="https://api.iconify.design/logos:posthog-icon.svg?color=%23888888" alt="PostHog" width="48" height="48" />
 <img src="https://api.iconify.design/logos:google-tag-manager.svg?color=%23888888" alt="Google Tag Manager" width="48" height="48" />
+</p>
 </div>
 
 <h3>Currently Learning</h3>
 <div>
+<p align="center">
 <img src="https://api.iconify.design/logos:go.svg?color=%23888888" alt="Go" width="48" height="48" />
 <img src="https://api.iconify.design/skill-icons:supabase-light.svg?color=%23888888" alt="Supabase" width="48" height="48" />
+</p>
 </div>
