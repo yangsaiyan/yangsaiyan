@@ -1,6 +1,6 @@
 # Hi there, I'm Lim Zi Yang
 
-<p align="center">
+<p>
 ![YangSaiyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yangsaiyan&show_icons=true&theme=dark)
 </p>
 
