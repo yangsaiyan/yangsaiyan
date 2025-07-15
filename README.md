@@ -7,7 +7,7 @@
 
 <h3>Main Stacks</h3>
 <div>
-<img src="https://api.iconify.design/logos:javascript.svg?color=%23888888" alt="JavaScript" />
+<img src="https://api.iconify.design/logos:javascript.svg?color=%23888888" alt="JavaScript" width="48" height="48" />
 <img src="https://api.iconify.design/logos:typescript-icon.svg?color=%23888888" alt="TypeScript" />
 <img src="https://api.iconify.design/skill-icons:vercel-light.svg?color=%23888888" alt="Vercel" />
 <img src="https://api.iconify.design/logos:react.svg?color=%23888888" alt="React" />
