@@ -21,7 +21,7 @@
 
 <h3>Used Stacks</h3>
 <div>
-<img src="https://api.iconify.design/logos:solidity.svg?color=%23888888" alt="Solidity" />
+<img src="https://api.iconify.design/skill-icons:solidity.svg?color=%23888888" alt="Solidity" />
 <img src="https://api.iconify.design/logos:c-plusplus.svg?color=%23888888" alt="C++" />
 <img src="https://api.iconify.design/logos:python.svg?color=%23888888" alt="Python" />
 <img src="https://api.iconify.design/logos:java.svg?color=%23888888" alt="Java" />
