@@ -46,7 +46,7 @@
 </div>
 
 <h3>Exposed To</h3>
-<p>Used to work with these, but not actively using them now.</p>
+<p>Used to work with these, have some knowledge but not using it directly.</p>
 <div>
 <p align="center">
 <img src="https://api.iconify.design/logos:graphql.svg?color=%23888888" alt="GraphQL" width="48" height="48" />
