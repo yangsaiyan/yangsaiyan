@@ -1,10 +1,10 @@
 # Hi there, I'm Lim Zi Yang
-
+## GitHub Stats
 ![YangSaiyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yangsaiyan&show_icons=true&theme=dark)
 
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yangsaiyan&layout=compact&theme=dark)
 
-<h3>Main Stacks</h3>
+## Main Tech Stack
 <div>
 <p align="center">
 <img src="https://api.iconify.design/logos:javascript.svg?color=%23888888" alt="JavaScript" width="48" height="48" />
@@ -20,7 +20,8 @@
 </p>
 </div>
 
-
+## Experienced With
+<div>
 <p align="center">
 <img src="https://api.iconify.design/skill-icons:solidity.svg?color=%23888888" alt="Solidity" width="48" height="48" />
 <img src="https://api.iconify.design/logos:c-plusplus.svg?color=%23888888" alt="C++" width="48" height="48" />
@@ -47,3 +48,5 @@
 <img src="https://api.iconify.design/skill-icons:golang.svg?color=%23888888" alt="Go" width="48" height="48" />
 <img src="https://api.iconify.design/skill-icons:supabase-light.svg?color=%23888888" alt="Supabase" width="48" height="48" />
 </p>
+</div>
+
